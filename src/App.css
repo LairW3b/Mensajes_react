@@ -1,0 +1,6 @@
+.contenido_app {
+  /* width: min(100%, 120rem);
+  margin: auto; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

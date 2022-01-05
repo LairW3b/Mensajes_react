@@ -1,0 +1,10 @@
+.contenedor_mnsj {
+  max-width: 40rem;
+  border: 2px solid #286ea7;
+  border-radius: 1rem;
+  background-color: rgb(224, 230, 218);
+}
+
+.title_mnsj {
+  font-size: 3rem;
+}

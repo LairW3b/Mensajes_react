@@ -1,0 +1,29 @@
+.content_form {
+  display: grid;
+  justify-content: center;
+  max-width: 40rem;
+  border: 2px solid #286ea7;
+  border-radius: 1rem;
+  background-color: rgb(224, 230, 218);
+}
+
+ .titulos {
+   font-size: 3rem;
+ }
+
+.div_form {
+  display: grid;
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+.inputs {
+  border-radius: .5rem;
+  border-style: none;
+  border: 1px solid #286ea7;
+}
+
+.inputs_txt {
+  height: 3rem;
+}
+
