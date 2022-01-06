@@ -1,0 +1,12 @@
+.error {
+  background-color: #d80f0f;
+  color: #fff;
+  border-radius: 1rem;
+}
+
+.error p {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+}

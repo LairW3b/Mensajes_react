@@ -1,0 +1,42 @@
+.mnsj {
+  margin-top: 2rem;
+  border: 2px solid #286ea7;
+  border-radius: 1rem;
+  background-color: rgb(224, 230, 218);
+}
+
+.ususario {
+  font-size: 1.6rem;
+  margin-left: 2rem;
+}
+
+.titulo_mnsj {
+  font-size: 2rem;
+  margin-left: 2rem;
+}
+
+.parrafo {
+  width: 35rem;
+  font-size: 1.5rem ;
+  margin: auto;
+  text-align: justify;
+}
+
+.fecha {
+  font-size: 1.5rem;
+  margin-left: 2rem;
+}
+
+.btn{
+  margin: 1rem;
+  width: 8rem;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #286ea7;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #114066;
+}
